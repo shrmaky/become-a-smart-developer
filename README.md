@@ -6,4 +6,6 @@ For anyone who wants to step into the development world
 - Internet Connection
 - Use of Google Search
 
-## Move to [Week-1](./week-1.md)
+---
+
+#### Move to [Week-1](./week-1.md)
